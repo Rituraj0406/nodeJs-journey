@@ -1,0 +1,6 @@
+In this Node jS and Express application we learned how to share data across the request and user.
+We have used template engine like Pug and implemented templates using pug engine and passed the data dynamically and created a layout where we are writing main-layout file which is getting render for commonly used layout in every .pug file.
+
+Here we have seen and learned the function app.render() from Express which helps us to render the template engine in our Express application.
+
+Note:- Pug works on Express Js its in-build you just need to install the pug using "npm install --save pug". 
