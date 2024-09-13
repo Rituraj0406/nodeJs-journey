@@ -1,0 +1,2 @@
+This app demonstrates the use of middleware to handle different routes and how requests are processed through sequential middleware. 
+The first middleware logs a message, and based on the route, either the "Add Product" page or the "Hello from Express!" message is shown.
